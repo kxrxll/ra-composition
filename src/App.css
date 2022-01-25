@@ -1,0 +1,30 @@
+.search {
+  width: 80%;
+  height: 500px;
+  background-color: bisque;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.search_main {
+  width: 80%;
+  height: 100px;
+  background-color: burlywood;
+  padding: 20px;
+}
+
+.news {
+  width: 80%;
+  height: 100px;
+  background-color: burlywood;
+  padding: 20px;
+}
+
+.information {
+  width: 80%;
+  height: 120px;
+  background-color: burlywood;
+  padding: 20px;
+}
